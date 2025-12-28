@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a proficient Data Engineer having 2+ years of Experience of Desgining, Building and Maintaining Efficient Data-Pipelines using cloud 
-Tech.
+Tech..
 
 
 ## 🌐 Socials:
